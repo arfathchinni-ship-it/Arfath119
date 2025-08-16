@@ -1,2 +1,3 @@
 # Arfath119
-Arfath 1st repository 
+This is my 1st repository 
+By -- Arfath
